@@ -1,0 +1,5 @@
+library(dslabs)
+data(movielens)
+# you can use str() or class()
+str(movielens)
+class(movielens$genres)
